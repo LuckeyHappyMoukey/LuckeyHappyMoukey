@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning no IDEA.
 - 💞️ I’m voide game player
 - 📫 I got no eamil but this one :/
+- 🤔 Pull requests or Issues to chat leave a meaasage?
 
 <!---
 An is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
